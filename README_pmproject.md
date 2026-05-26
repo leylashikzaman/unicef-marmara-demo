@@ -1,19 +1,17 @@
 # Marmara–UNICEF Child Health Tracking Platform
 ### Demo Prototype — PM Project
 
-A functional demo web application for the UNICEF–Marmara University digital child health tracking platform.
+A functional demo/prototype web application for the UNICEF–Marmara University digital child health tracking platform project.
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-**[View Demo →](https://YOUR-USERNAME.github.io/unicef-marmara-demo/)**
-
-> Replace `YOUR-USERNAME` with your GitHub username after deploying.
+**[View Demo →](https://leylashikzaman.github.io/unicef-marmara-demo/)**
 
 ---
 
-## 📋 About
+## About
 
 This demo represents the functional prototype of the UNICEF–Marmara University digital health tracking platform. It demonstrates:
 
@@ -31,7 +29,7 @@ This demo represents the functional prototype of the UNICEF–Marmara University
 
 ---
 
-## 🖥️ Screens Implemented
+## Screens Implemented
 
 | # | Screen | Description |
 |---|--------|-------------|
@@ -46,7 +44,7 @@ This demo represents the functional prototype of the UNICEF–Marmara University
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The demo uses hardcoded data reflecting the Excel dataset from the project:
 
@@ -56,7 +54,7 @@ The demo uses hardcoded data reflecting the Excel dataset from the project:
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 No installation required. Just open:
 
@@ -68,7 +66,7 @@ in any modern browser (Chrome, Firefox, Safari, Edge).
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - **HTML5 / CSS3 / Vanilla JavaScript** — No framework dependencies
 - **Chart.js** (CDN) — Dashboard charts
@@ -77,7 +75,7 @@ in any modern browser (Chrome, Firefox, Safari, Edge).
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 unicef-marmara-demo/
@@ -89,7 +87,7 @@ unicef-marmara-demo/
 
 ---
 
-## 🎯 Demo Scenario (for presentation)
+## Demo Scenario (for presentation)
 
 1. Login as **Field Worker**
 2. Go to **Children** → find Child C-1001
@@ -101,7 +99,7 @@ unicef-marmara-demo/
 
 ---
 
-## 🔗 Project Context
+## Project Context
 
 - **Partner Organizations:** UNICEF Turkey & Marmara University
 - **Target Users:** Field health workers, Marmara University medical residents, project managers
